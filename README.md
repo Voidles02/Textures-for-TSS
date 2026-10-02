@@ -1,2 +1,2 @@
 # Textures-for-TSS
-Created with kodari.ai
+Created by voidles02 and Tecnor Technologies
